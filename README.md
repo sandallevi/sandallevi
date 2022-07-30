@@ -27,3 +27,5 @@ https://arxiv.org/
 gitee上risc-v的工具链，下载速度很快。
 
 [riscv-gnu-toolchain ](https://gitee.com/mirrors/riscv-gnu-toolchain?_from=gitee_search)
+
+现在gitee和github实现了同步
